@@ -1,0 +1,27 @@
+body {
+    font-family: "Verdana", Sans-serif;
+    font-size: 0.875em;
+    background-color: #ffffff;
+}
+
+.title {
+    box-sizing: border-box;
+    border: 10px solid#cccccc;
+    font-size: 1.5em;
+    margin: 10px;
+    text-align: center;
+    width: 35%;
+}
+
+.header-splash {
+    font-size: 1.5em;
+    font-weight: 100;
+    color: #ff6600;
+}
+
+img.recipe-img {
+    width: 35%;
+    height: 75%;
+    outline: 2px solid gray;
+    outline-offset: -10px;
+}
